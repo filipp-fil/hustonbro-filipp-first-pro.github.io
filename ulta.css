@@ -1,0 +1,118 @@
+.block {
+  width: 1219px;
+  margin-left: 100px;
+  margin-right: 55px;
+}
+a {
+  color: inherit;
+}
+.shapka {
+  position: fixed;
+  top: -20px;
+  color: #007765;
+  text-align: right;
+  width: 1190px;
+  height: 50px;
+  padding-right: 30px;
+  padding-top: 20px;
+  background-color: #d7bb2f;
+  font-size: 20px;
+}
+.second {
+  height: 250px;
+  background: url(img/image.png);
+}
+.seco {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  padding-top: 100px;
+}
+.third {
+  background: rgb(255, 255, 255);
+  margin-top: -75px;
+  padding-bottom: 20px;
+}
+.thir {
+  color: #007765;
+  font-size: 45px;
+  text-align: center;
+  padding-top: 20px;
+}
+.thi {
+  font-size: 20px;
+  text-align: justify;
+  width: 700px;
+  padding-left: 250px;
+  margin-top: -50px;
+}
+.foth {
+  height: 250px;
+  background: url(img/imagea.png);
+  margin-top: -30px;
+}
+.fot {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 70px;
+}
+.fifth {
+  background: rgb(255, 255, 255);
+  margin-top: -76px;
+  padding-bottom: 20px;
+}
+.fift {
+  color: #007765;
+  font-size: 45px;
+  text-align: center;
+  padding-top: 20px;
+}
+.fi {
+  font-size: 20px;
+  width: 600px;
+  padding-left: 360px;
+  margin-top: -80px;
+  margin-bottom: 20px;
+}
+.fif {
+  font-size: 20px;
+  width: 700px;
+  padding-left: 250px;
+  margin-top: 0px;
+}
+.Logo {
+  width: 100px;
+  height: 100px;
+  padding-left: 250px;
+  margin-top: -50px;
+  margin-bottom: 20px;
+}
+.si {
+  color: #007765;
+  font-size: 45px;
+  text-align: center;
+  padding-top: 20px;
+  margin-top: -20px;
+}
+.six {
+  width: 100px;
+  height: 100px;
+}
+.a {
+  color: #007765;
+  font-weight: bold;
+}
+.b {
+  font-style: italic;
+}
+table {
+  text-align: center;
+  padding-left: 250px;
+}
+i {
+  width: 5px;
+  height: 5px;
+  
+  
+}
